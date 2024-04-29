@@ -1,4 +1,4 @@
-# xaimelm
+# XAImELM
 XAI (Self-explanatory) Morphological Extreme Learning Machine
 
 # mELM
